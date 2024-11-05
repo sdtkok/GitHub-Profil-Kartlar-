@@ -7,4 +7,5 @@
 <p>Html,Css tasarlanmıştır. JavaScript ile  daha dinamik hale getirilmiştir.</p>
 
 <h3>Ekran Gif</h3>
+
 ![](Github.gif)
